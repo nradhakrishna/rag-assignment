@@ -20,3 +20,6 @@ After the run, download `outputs/rank_shifts.csv`, `outputs/latency.csv`, and `o
 ## Report
 
 Write the report yourself from those outputs. The brief asks for a non-AI report covering architecture, rank shifts, latency, and why a Cross-Encoder is not run over the full collection.
+
+
+GITHUB: https://github.com/nradhakrishna/rag-assignment
