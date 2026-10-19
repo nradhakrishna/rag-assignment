@@ -1,0 +1,5 @@
+query_id,failure_type,gold_rule,gold_rank_baseline,gold_rank_rerank,rank_shift,gold_in_baseline_top3,gold_in_rerank_top3
+Q1_keyword_trap,Keyword trap / distractor,"701.6, 701.6a, 701.6b",3.0,1.0,2.0,True,True
+Q2_exception,Exceptions & corner cases,305.3,1.0,1.0,0.0,True,True
+Q3_negation,Negation & constraints,605.3b,,,,False,False
+Q4_buried_token,Document-specific buried clause,"111.6, 111.7, 704.5d",1.0,5.0,-4.0,True,False

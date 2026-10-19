@@ -1,0 +1,9 @@
+query_id,pipeline,retrieve_ms,rerank_ms,retrieval_total_ms,generate_ms
+Q1_keyword_trap,baseline,21.42,0.0,21.42,3151.45
+Q1_keyword_trap,rerank,7.64,103.38,111.02,3071.2
+Q2_exception,baseline,9.36,0.0,9.36,2625.66
+Q2_exception,rerank,6.88,85.46,92.34,2590.74
+Q3_negation,baseline,9.62,0.0,9.62,4306.88
+Q3_negation,rerank,6.86,48.31,55.17,3663.09
+Q4_buried_token,baseline,8.94,0.0,8.94,3824.83
+Q4_buried_token,rerank,7.09,88.91,96.01,2988.68

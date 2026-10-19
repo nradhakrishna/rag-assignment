@@ -1,0 +1,10 @@
+# Kaggle already has torch / transformers. Install only these extras there:
+# %pip install pypdf sentence-transformers faiss-cpu
+pypdf>=5.0.0
+sentence-transformers>=3.0.0
+faiss-cpu>=1.8.0
+numpy>=1.26.0
+pandas>=2.2.0
+tqdm>=4.66.0
+python-dotenv>=1.0.0
+matplotlib>=3.8.0

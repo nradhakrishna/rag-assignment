@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+outputs/*.json
+outputs/*.pkl
+outputs/index/
+.cache/
+hf_cache/
+models/
+*.egg-info/
